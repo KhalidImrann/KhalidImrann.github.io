@@ -1,2 +1,2 @@
-# KhalidImrann.github.io
+# Khalid Imran
 Hi ! this is my personal Website.
